@@ -44,7 +44,7 @@ input:
     - /scratch/tm70/hm6113/regional_mom6_configs/mom6-access-om2-nuopc/access-rom3-nomask-ESMFmesh.nc
     - /scratch/tm70/hm6113/regional_mom6_configs/mom6-access-om2-nuopc/land_mask.nc 
 collate: false
-runlog: True
+runlog: false
 metadata: 
     enable: false
 
